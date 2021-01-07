@@ -1,10 +1,12 @@
 # test-repo of Vipul & Guru
 
-WELCOME to Google Cloud Shell, a tool for managing resources hosted on Google Cloud Platform!
+WelCome to Google Cloud Shell, a tool for managing resources hosted on Google Cloud Platform!
 The machine comes pre-installed with the Google Cloud SDK and other popular developer tools.
 
-Your 10GB home directory will persist across sessions, but the VM is ephemeral and will be reset
-approximately 40 minutes after your session ends. No system-wide change will persist beyond that.
+Your 25GB home directory will persist across sessions, but the VM is ephemeral and will be reset
+approximately 90 minutes after your session ends. No system-wide change will persist beyond that.
+
+This is to check if my changes are also update updated along with yours
 
 Type "gcloud help" to get help on using Cloud SDK. For more examples, visit
 https://cloud.google.com/shell/docs/quickstart and https://cloud.google.com/shell/docs/examples
